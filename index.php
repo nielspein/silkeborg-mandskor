@@ -61,7 +61,6 @@ include "php/banners.php";
                 <ul>
                     <li>Julekoncert i Baunekirken.<br><span class="date">6. december 2017 kl. 19.30</span></li>
                     <li>Midnatskoncert i Silkeborg kirke.<br><span class="date">8. december 2017 kl. 23.00</span></li>
-                    <li>Julekoncert i Vester Velling kirke.<br><span class="date">14. december 2017 kl. 19.30</span></li>
                     <li>...</span></li>
                 </ul>
                 <button id="lyt-til-os">Lyt til mere</button>
